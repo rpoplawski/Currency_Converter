@@ -1,0 +1,1 @@
+The purpose of this Currency Converter program is to take a given currency, the U.S. dollar, and convert it to (2) other montary units such as Canadian  money (Francs) and European money (Euros). This is done using the appropriate exchange rates.
